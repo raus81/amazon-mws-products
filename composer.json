@@ -1,14 +1,14 @@
 {
-    "name": "tilleuls/amazon-mws-products",
+    "name": "raus81/amazon-mws-products",
     "type": "library",
     "description": "Amazon Marketplace Web Service Products PHP Client Library",
     "keywords": ["amazon", "mws", "products", "client", "api", "library"],
-    "homepage": "http://les-tilleuls.coop",
+    "homepage": "http://www.uplay.it",
     "licence": "Apache-2.0",
     "authors": [
         {
-          "name": "Baptiste Meyer",
-          "email": "baptiste@les-tilleuls.coop"
+          "name": "Federico Cristiani",
+          "email": "federico.cristiani@gmail.com"
         }
     ],
     "require": {
